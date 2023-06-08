@@ -21,5 +21,5 @@ Route::get('/', function () {
 Route::get('login', [AuthController::class, 'login'])->name('login');
 
 Route::get('admin', function () {
-    return view('Admin.indexadmin');
+    return view('Admin.index');
 });
