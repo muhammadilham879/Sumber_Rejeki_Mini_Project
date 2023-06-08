@@ -13,12 +13,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>SukiSolve</title>
+    <title></title>
 </head>
 <body>
     <div class="container">
-    <h1>SukiSolve</h1>
+    <h1></h1>
 </div>
-<p class="container-fluid mt-2">Ini adalah halaman utama dari website SukiSolve</p>
+<p class="container-fluid mt-2"></p>
 </body>
 </html>
